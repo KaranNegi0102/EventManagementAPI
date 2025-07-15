@@ -191,13 +191,7 @@ Standard JSON error responses:
 
 ---
 
-## 📋 License
-
-MIT
-
----
-
 ## 👨‍💻 Author
 
 **Karan Negi**
-GitHub: [@karannegi](https://github.com/yourusername)
+GitHub: [@karannegi](https://github.com/KaranNegi0102/EventManagementAPI.git)
