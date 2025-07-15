@@ -29,7 +29,7 @@ A robust RESTful API built using **Node.js**, **Express**, and **PostgreSQL** to
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/event-management-api.git
+git clone https://github.com/KaranNegi0102/EventManagementAPI.git
 cd event-management-api
 ```
 
